@@ -9,7 +9,7 @@ Bugly HotFix 初识
 1.配置keys<br>
 [build.gradle](https://github.com/yuanbinbinbin/BuglyHotFix/blob/master/app/build.gradle) line 21行  配置自己的打包属性
 
-2.配置bugly appID<br>
+2.配置在Bugly平台申请的appId<br>
 [FixApplicationLike](https://github.com/yuanbinbinbin/BuglyHotFix/blob/master/app/src/main/java/com/yb/buglyhotfix/application/FixApplicationLike.java) line 32 
 
 
